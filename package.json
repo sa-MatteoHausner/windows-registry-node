@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "ffi": "github:sa-MatteoHausner/node-ffi#node-12.8.1",
-    "ref": "github:sa-MatteoHausner/ref#node-12.8.1",
-    "ref-struct": "github:sa-MatteoHausner/ref-struct#node-12.8.1",
-    "ref-union": "github:sa-MatteoHausner/ref-union#node-12.8.1"
+    "ffi": "github:sa-MatteoHausner/node-ffi#node-12.14.1",
+    "ref": "github:sa-MatteoHausner/ref#node-12.14.1",
+    "ref-struct": "github:sa-MatteoHausner/ref-struct#node-12.14.1",
+    "ref-union": "github:sa-MatteoHausner/ref-union#node-12.14.1"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
