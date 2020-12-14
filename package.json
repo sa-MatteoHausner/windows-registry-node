@@ -2,6 +2,8 @@
   "name": "windows-registry",
   "version": "0.1.5",
   "description": "Read and Write to the Windows registry in-process from Node.js. Easily set application file associations and other goodies & such.",
+  "os" : [ "win32" ],
+  "cpu" : [ "x64", "ia32" ],
   "main": "index.js",
   "directories": {
     "test": "test"
